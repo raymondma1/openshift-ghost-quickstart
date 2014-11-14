@@ -9,7 +9,7 @@ config = {
     // ### Development **(default)**
     development: {
         // The url to use when providing links to the site, E.g. in RSS and email.
-        url: 'http://ghostblogray-iwantmyname.rhcloud.com/',
+        url: 'http://raymondma.io/',
 
         // Example mail config
         // Visit http://support.ghost.org/mail for instructions
